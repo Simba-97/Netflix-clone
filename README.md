@@ -1,6 +1,8 @@
 #Netflix Clone
 Clone of the famous streaming App, Netflix.
 
+visit the app at: https://netflix-clone-673a7.web.app/
+
 
 
 <img  alt="portfolio_view" src="./Screenshot_20210802_215650.png">
