@@ -3,8 +3,8 @@ Clone of the famous streaming App, Netflix.
 
 
 
-<img width="200" height="400" alt="portfolio_view" src="./Flash.jpg">
-<img width="200" height="400" alt="portfolio_view" src="./Contact.jpg">
+<img  alt="portfolio_view" src="./Screenshot_20210802_215650.png">
+
 
 Please show some ❤ by 🌟 the repository.
 
